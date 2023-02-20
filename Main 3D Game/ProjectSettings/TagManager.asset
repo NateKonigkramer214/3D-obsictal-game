@@ -9,6 +9,7 @@ TagManager:
   - Fall
   - Bounce
   - End
+  - end
   layers:
   - Default
   - TransparentFX
